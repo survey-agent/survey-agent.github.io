@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>AucArena Demo</title>
+      <title>SurveyAgent Demo</title>
       <link>https://example.com/project/demo/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/demo/</guid>
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Survey Agent Code</title>
+      <title>SurveyAgent Code</title>
       <link>https://example.com/project/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/code/</guid>
