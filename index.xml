@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SurveyAgent - A Conversational System for Personalized and Efficient Research Survey</title>
+    <title>SurveyAgent</title>
     <link>https://survey-agent.github.io/</link>
       <atom:link href="https://survey-agent.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>SurveyAgent - A Conversational System for Personalized and Efficient Research Survey</description>
+    <description>SurveyAgent</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://survey-agent.github.io/media/icon_hu40f7a6e04b70cca303b75ecd5d64dd63_343913_512x512_fill_lanczos_center_3.png</url>
-      <title>SurveyAgent - A Conversational System for Personalized and Efficient Research Survey</title>
+      <title>SurveyAgent</title>
       <link>https://survey-agent.github.io/</link>
     </image>
     
