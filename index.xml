@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SurveyAgent - A Conversational System for Personalized and Efficient Research Survey</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://survey-agent.github.io/</link>
+      <atom:link href="https://survey-agent.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SurveyAgent - A Conversational System for Personalized and Efficient Research Survey</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu40f7a6e04b70cca303b75ecd5d64dd63_343913_512x512_fill_lanczos_center_3.png</url>
+      <url>https://survey-agent.github.io/media/icon_hu40f7a6e04b70cca303b75ecd5d64dd63_343913_512x512_fill_lanczos_center_3.png</url>
       <title>SurveyAgent - A Conversational System for Personalized and Efficient Research Survey</title>
-      <link>https://example.com/</link>
+      <link>https://survey-agent.github.io/</link>
     </image>
     
     <item>
       <title>SurveyAgent Demo</title>
-      <link>https://example.com/project/demo/</link>
+      <link>https://survey-agent.github.io/project/demo/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/demo/</guid>
+      <guid>https://survey-agent.github.io/project/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SurveyAgent Paper</title>
-      <link>https://example.com/project/paper/</link>
+      <link>https://survey-agent.github.io/project/paper/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/paper/</guid>
+      <guid>https://survey-agent.github.io/project/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/about/</link>
+      <link>https://survey-agent.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/</guid>
+      <guid>https://survey-agent.github.io/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SurveyAgent Code</title>
-      <link>https://example.com/project/code/</link>
+      <link>https://survey-agent.github.io/project/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/code/</guid>
+      <guid>https://survey-agent.github.io/project/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UI Code</title>
-      <link>https://example.com/project/code_ui/</link>
+      <link>https://survey-agent.github.io/project/code_ui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/code_ui/</guid>
+      <guid>https://survey-agent.github.io/project/code_ui/</guid>
       <description></description>
     </item>
     
